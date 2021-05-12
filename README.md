@@ -1,1 +1,1 @@
-<h1>Dark & Light-Mode-User-Card.git</h1>
+<h1>Dark & Light-Mode-User-Card</h1>
